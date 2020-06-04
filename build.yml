@@ -9,5 +9,4 @@ image_resource:
   source: {repository: busybox}
 
 run:
-  path: ls
-  args: [scripts-and-stuff]
+  path: ./scripts-and-stuff/build.sh
