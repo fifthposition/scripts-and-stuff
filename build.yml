@@ -9,4 +9,4 @@ image_resource:
   source: {repository: busybox}
 
 run:
-  path: sample-app-concourse/build.sh
+  path: scripts-and-stuff/build.sh
