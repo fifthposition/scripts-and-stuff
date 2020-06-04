@@ -2,7 +2,7 @@
 platform: linux
 
 inputs:
-  - name: sample-app-concourse
+  - name: scripts-and-stuff
 
 image_resource:
   type: docker-image
