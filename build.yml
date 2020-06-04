@@ -10,4 +10,4 @@ image_resource:
 
 run:
   path: ls
-  args: [-al scripts-and-stuff]
+  args: [scripts-and-stuff]
