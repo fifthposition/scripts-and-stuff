@@ -9,4 +9,5 @@ image_resource:
   source: {repository: busybox}
 
 run:
-  path: echo "Hi"
+  path: echo
+  args: [Hi]
